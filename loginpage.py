@@ -21,7 +21,7 @@ logo_label.pack(pady=(0, 10), padx=(20, 50))
 
 #text below logo
 tk.Label(main_frame, text="Institute of Nursing", font=("Helvetica", 16, "bold"), bg="#fbb3bb").pack()
-tk.Label(main_frame, text="Laboratory Equipment Management System", font=("Helvetica", 20, "bold"), bg="#fbb3bb").pack(pady=(0, 20))
+tk.Label(main_frame, text="SAMPLE Laboratory Equipment Management System", font=("Helvetica", 20, "bold"), bg="#fbb3bb").pack(pady=(0, 20))
 
 #buton
 login_button = tk.Button(
